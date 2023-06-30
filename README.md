@@ -13,12 +13,12 @@ This is an email template created using HTML and CSS. The template is fully resp
 </nav>
 
 ## How to Use this Project
-<a href="https://ivsir.github.io/RisviTareqPortfolio/">This is the link to the template</a>
-<p>This is an image of the template as a live email.</p>
-<img src="src/Images/front page.png">
+<a href="https://ivsir.github.io/splice-email-template/">This is the link to the template</a>
+<p>This is a demonstration of the template as a live email.</p>
+<img src="assets/images/splice template email.gif">
 
 ## Questions
-<li>https://github.com/ivsir </li>
+<li><a src="https://github.com/ivsir">https://github.com/ivsir</a> </li>
 <li>Email: ivsirqerat@gmail.com</li>
 
 ## Contributors
